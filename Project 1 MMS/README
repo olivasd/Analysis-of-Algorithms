@@ -1,0 +1,11 @@
+To use program:
+
+1. add MSS_Problems.txt to this folder
+2. type ‘make’ (hit ‘Enter’)
+3. type ‘./testMSS’ to run program (hit ‘Enter’)
+4. type ‘make clean’ to remove extraneous files
+5. open ‘MSS_Results.txt’ to see results
+
+
+** Note: project1_runtimes.cpp was not linked in makefile or used in the program
+** It was used for testing experimental run-times.
